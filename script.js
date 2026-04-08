@@ -32,5 +32,5 @@ document.getElementById("search").addEventListener("input", (e) => {
 });
 
 function contact() {
-  window.open("https://zalo.me/0342508034", "_blank");
+  window.open("https://fb.com/heeaw", "_blank");
 }
